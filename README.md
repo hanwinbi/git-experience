@@ -13,3 +13,11 @@ If you are curious about why I write this README in English after you find out a
 - `git push -u origin master`: This will push all your added local file to Github. Ohhhhhh~
 - `git add README.md`: I need to add this to track what I did after last `add`.
 - `git commit -m 'add remote repo & push'`: Same things as before, but different commit message.
+
+---
+
+I need to take a break today after doing my paper work. See you soon~
+
+- `git add README.md`: Same as before.
+- `git commit -m 'tired day & commit my words'`: boring commit, but concise.
+- `git push`: This will automate push to my master branch.
